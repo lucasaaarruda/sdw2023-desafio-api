@@ -7,6 +7,9 @@ Explorando uma IA Generativa em um Pipeline de ETL com Python.
 **ESTE REPOSITÓRIO FOI CRIADO PARA FINS EDUCATIVOS!!!**
 
 Repositótio criado a partir do desafio de projeto da DIO - Santander Dev Week para a criação de uma API com IA Generativa.
+## Minha Versão do API
+
+https://colab.research.google.com/drive/1alZthosjku1G87C16F2dEQwjCFVM2yQH#scrollTo=n1w78kNxTrZY
 
 ## Repositório DIO
 Aos interessador no repositório que foi utilizado como base para o estudo, segue o link:
